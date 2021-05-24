@@ -86,7 +86,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-derby-1.0.0</finalName>
+		<finalName>spring-boot-derby-2.0.0</finalName>
 	</build>
 
 </project>
